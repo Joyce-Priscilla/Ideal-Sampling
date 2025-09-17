@@ -180,11 +180,20 @@ plt.show()
 # Output Waveform
 # Ideal
 
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/edb62d64-5809-4725-bd10-f9434aa60adf" />
+
+# Natural
+
 <img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/a89f542d-a6b6-41b1-9ac0-e6b612defa62" />
+
+# Flat-Top
+
+<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/8dfd17d3-7d49-4484-be31-5d7f1b12e953" />
 
 
 # Results
 ```
-Attach the output waveform
+Thus python program for the construction and reconstruction of ideal, natural, and flattop sampling is executed sucessfully.
+
 ```
 # Hardware experiment output waveform.
