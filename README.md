@@ -180,7 +180,7 @@ plt.show()
 # Output Waveform
 # Ideal
 
-<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/edb62d64-5809-4725-bd10-f9434aa60adf" />
+<img width="579" height="760" alt="image" src="https://github.com/user-attachments/assets/9487a41c-b454-4199-a481-635be41b02c8" />
 
 # Natural
 
