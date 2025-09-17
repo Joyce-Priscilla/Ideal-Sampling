@@ -196,4 +196,4 @@ plt.show()
 Thus python program for the construction and reconstruction of ideal, natural, and flattop sampling is executed sucessfully.
 
 ```
-# Hardware experiment output waveform.
+
