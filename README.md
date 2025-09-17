@@ -178,9 +178,11 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
-Attach the output waveform
-```
+# Ideal
+
+<img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/a89f542d-a6b6-41b1-9ac0-e6b612defa62" />
+
+
 # Results
 ```
 Attach the output waveform
